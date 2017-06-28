@@ -1,0 +1,62 @@
+/*
+* CSS sheet for the main page and structure
+* Written By: Michael Zarate
+*/
+
+/*
+*
+* Main Set up Components
+*
+*/
+
+
+body {
+	font-family: 'Source Code Pro', monospace;
+	color: #2d3c49;
+	font-weight: 400;
+}
+
+.text-thin {
+	font-weight: 100;
+}
+
+.title-super {
+	font-size: 60px;
+}
+
+.text-muted {
+	color: #7d97ad;
+}
+
+.title__logo
+{
+	margin-top: 15px;
+	max-width: 100px;
+	max-height: 100px;
+}
+
+
+/*
+*  Line Seperator 2
+*/
+
+.line-separator {
+	height: 1px;
+	background: #717171;
+	border-bottom: 1px solid #313030;
+	margin-bottom: 10px;
+}
+
+
+/*
+* Footer Specific 
+*/
+
+.cited-sources
+{
+	font-size: 10px;
+	color: black;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+}
