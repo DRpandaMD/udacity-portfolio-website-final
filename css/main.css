@@ -37,7 +37,7 @@ body {
 
 
 /*
-*  Line Seperator 2
+*  Line Seperator 1 and 2
 */
 
 .line-separator {
@@ -47,16 +47,21 @@ body {
 	margin-bottom: 10px;
 }
 
+.line-separator2 {
+	height: 1px;
+	background: #717171;
+	border-bottom: 1px solid #313030;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
 
 /*
 * Footer Specific 
 */
 
-.cited-sources
+#cited-sources
 {
 	font-size: 10px;
 	color: black;
-	padding-left: 10px;
-	padding-right: 10px;
-	padding-top: 10px;
 }
