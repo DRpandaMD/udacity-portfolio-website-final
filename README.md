@@ -9,11 +9,15 @@ The final project 2 for Udacity Full Stack Web Dev course part 1:
 A Portfolio Website
 
 
-Run information:  
+Run information:
 Download this zip and extact the contents to a folder of your choice.
 Open up your web browser and drag and drop index.html into the browswer window.
 
 And thats it.  :)
+
+Upadates Ver 1.1.2 8/1/2017
+Reorganized  HTML Semantic Tags.
+Double checked placement of div container, row and columns
 
 
 Updates Ver 1.1.1 7/19/2017
