@@ -15,6 +15,11 @@ Open up your web browser and drag and drop index.html into the browswer window.
 
 And thats it.  :)
 
+Update Ver 1.1.3 10/28/2017 
+Cleaned up the code a tiny bit.
+Added bootstrap div [row, col] to my line seperators
+Added classes in CSS for Section and Div HMTL tags
+
 Upadates Ver 1.1.2 8/1/2017
 Reorganized  HTML Semantic Tags.
 Double checked placement of div container, row and columns

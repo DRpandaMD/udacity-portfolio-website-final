@@ -16,6 +16,14 @@ body {
 	font-weight: 400;
 }
 
+section { 
+    display: block;
+}
+
+div {
+    display: block;
+}
+
 .text-thin {
 	font-weight: 100;
 }
@@ -60,8 +68,7 @@ body {
 * Footer Specific 
 */
 
-#cited-sources
-{
+#cited-sources{
 	font-size: 10px;
 	color: black;
 }
