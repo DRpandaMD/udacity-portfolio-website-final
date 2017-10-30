@@ -19,6 +19,7 @@ Update Ver 1.1.3 10/28/2017
 Cleaned up the code a tiny bit.
 Added bootstrap div [row, col] to my line seperators
 Added classes in CSS for Section and Div HMTL tags
+../10/30/2017 added the class in HTML an oversight on my part XD
 
 Upadates Ver 1.1.2 8/1/2017
 Reorganized  HTML Semantic Tags.
